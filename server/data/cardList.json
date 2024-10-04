@@ -1,0 +1,208 @@
+[
+  {
+    "deckId": 1,
+    "cardId": 11,
+    "cardName": "Elspeth, Sun's Champion",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 3,
+    "cardName": "Banisher Priest",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 4,
+    "cardName": "Captain of the Watch",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 7,
+    "cardName": "Court Street Denizen",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 16,
+    "cardName": "Gempalm Avenger",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 18,
+    "cardName": "Gustcloak Harrier",
+    "cardCount": 2
+  },
+  {
+    "deckId": 1,
+    "cardId": 19,
+    "cardName": "Gustcloak Savior",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 20,
+    "cardName": "Gustcloak Sentinel",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 21,
+    "cardName": "Gustcloak Skirmisher",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 22,
+    "cardName": "Icatian Javelineers",
+    "cardCount": 2
+  },
+  {
+    "deckId": 1,
+    "cardId": 25,
+    "cardName": "Kinsbaile Skirmisher",
+    "cardCount": 2
+  },
+  {
+    "deckId": 1,
+    "cardId": 28,
+    "cardName": "Kor Skyfisher",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 31,
+    "cardName": "Loxodon Partisan",
+    "cardCount": 2
+  },
+  {
+    "deckId": 1,
+    "cardId": 35,
+    "cardName": "Mother of Runes",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 39,
+    "cardName": "Noble Templar",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 44,
+    "cardName": "Precinct Captain",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 52,
+    "cardName": "Standing Troops",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 58,
+    "cardName": "Veteran Armorsmith",
+    "cardCount": 2
+  },
+  {
+    "deckId": 1,
+    "cardId": 59,
+    "cardName": "Veteran Swordsmith",
+    "cardCount": 2
+  },
+  {
+    "deckId": 1,
+    "cardId": 9,
+    "cardName": "Decree of Justice",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 53,
+    "cardName": "Sunlance",
+    "cardCount": 2
+  },
+  {
+    "deckId": 1,
+    "cardId": 5,
+    "cardName": "Celestial Flare",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 8,
+    "cardName": "Dauntless Onslaught",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 33,
+    "cardName": "Mighty Leap",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 34,
+    "cardName": "Mortal's Ardor",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 45,
+    "cardName": "Raise the Alarm",
+    "cardCount": 2
+  },
+  {
+    "deckId": 1,
+    "cardId": 51,
+    "cardName": "Soul Parry",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 10,
+    "cardName": "Dictate of Heliod",
+    "cardCount": 1
+  },
+  {
+    "deckId": 1,
+    "cardId": 42,
+    "cardName": "Plains",
+    "cardCount": 22
+  },
+  {
+    "deckId": 1,
+    "cardId": 48,
+    "cardName": "Secluded Steppe",
+    "cardCount": 2
+  },
+  {
+    "deckId": 2,
+    "cardId": 27,
+    "cardName": "Kiora, the Crashing Wave",
+    "cardCount": 1
+  }, 
+  {
+    "deckId": 2,
+    "cardId": 23,
+    "cardName": "Inkwell Leviathan",
+    "cardCount": 1
+  }, 
+  {
+    "deckId": 2,
+    "cardId": 46,
+    "cardName": "Scourge of Fleets",
+    "cardCount": 1
+  }, 
+  {
+    "deckId": 2,
+    "cardId": 49,
+    "cardName": "Simic Sky Swallower",
+    "cardCount": 1
+  }
+]
+
+

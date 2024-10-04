@@ -1,0 +1,26 @@
+[
+    {
+        "userId": 1,
+        "deckName": "Elspeth Duel Deck",
+        "colors": "{W}",
+        "format": "Duel Deck"
+    },
+    {
+        "userId": 1,
+        "deckName": "Kiora Duel Deck",
+        "colors": "{B}{G}",
+        "format": "Duel Deck"
+    },
+    {
+        "userId": 2,
+        "deckName": "Aristocrats",
+        "colors": "{B}{W}",
+        "format": "Modern"
+    },
+    {
+        "userId": 3,
+        "deckName": "Slivers",
+        "colors": "{W}{U}{B}{R}{G}",
+        "format": "Comander"
+    }
+]

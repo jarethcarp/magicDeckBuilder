@@ -1,0 +1,343 @@
+
+[
+    {
+      "deckId": 1,
+      "cardName": "Elspeth, Sun's Champion",
+      "cardMana": "{4}{W}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.86",
+      "cardCount": 1,
+      "cardType": "Plainswalker",
+      "cardImg": "https://cards.scryfall.io/normal/front/4/6/46dc2519-2729-4bbd-8892-fab6186bf116.jpg?1706240571"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Banisher Priest",
+      "cardMana": "{1}{W}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.05",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/0/e/0e518f9e-d74d-4a6f-8fde-5e3ec5834e63.jpg?1682208306"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Captain of the Watch",
+      "cardMana": "{4}{W}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.49",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/6/e/6e201980-e220-44dc-beab-ad13c20332bd.jpg?1562840239"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Court Street Denizen",
+      "cardMana": "{2}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.10",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/c/4/c45b1d32-5a3a-4ec3-af11-d0ba947de175.jpg?1608908732"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Gempalm Avenger",
+      "cardMana": "{5}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.07",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/3/2/3267bf08-7585-4e2e-b472-97a357d264dc.jpg?1562839828"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Gustcloak Harrier",
+      "cardMana": "{1}{W}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.05",
+      "cardCount": 2,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/4/6/46f9c5ab-f793-4cf2-b88a-5af38a7b4616.jpg?1562840220"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Gustcloak Savior",
+      "cardMana": "{4}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.20",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/5/3/5303ce82-e82a-498e-af4f-16a56d8188ff.jpg?1562840226"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Gustcloak Sentinel",
+      "cardMana": "{2}{W}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.15",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/f/6/f6aba9c7-7f91-4f06-915b-70ed7db8f95f.jpg?1562840725"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Gustcloak Skirmisher",
+      "cardMana": "{3}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.02",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/c/2/c2ef15f8-4d37-4ea1-a8a2-6383f6be088f.jpg?1562840707"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Icatian Javelineers",
+      "cardMana": "{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.02",
+      "cardCount": 2,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/9/c/9ccce13a-77e6-4c74-9acc-d5e7c271872a.jpg?1675198827"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Kinsbaile Skirmisher",
+      "cardMana": "{1}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.03",
+      "cardCount": 2,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/2/5/257c396c-d8cc-487c-a6cb-2892c7e568a1.jpg?1562839820"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Kor Skyfisher",
+      "cardMana": "{1}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.51",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/d/7/d7501662-1216-4e08-bd2b-e0a459057942.jpg?1593812836"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Loxodon Partisan",
+      "cardMana": "{4}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.10",
+      "cardCount": 2,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/9/f/9fc32454-fc44-454e-ba25-7bd0687cf99d.jpg?1562840260"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Mother of Runes",
+      "cardMana": "{W}",
+      "cardColor": "[W]",
+      "cardPrice": "5.89",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/a/5/a5e19147-e459-43a6-8ef0-e37968a462e3.jpg?1674141175"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Noble Templar",
+      "cardMana": "{5}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.06",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/8/2/82073551-8106-4e88-8d55-913d86bbe48a.jpg?1562437547"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Precinct Captain",
+      "cardMana": "{W}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.37",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/f/e/fef6faa4-520c-4823-bfdf-715cec7fcd4b.jpg?1592765404"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Standing Troops",
+      "cardMana": "{2}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.02",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/7/5/75091277-99fe-428b-95bd-5cba9e0146ef.jpg?1562199037"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Veteran Armorsmith",
+      "cardMana": "{W}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.11",
+      "cardCount": 2,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/5/6/565c750e-47f9-4878-abff-ec973ec6d8a4.jpg?1562840230"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Veteran Swordsmith",
+      "cardMana": "{2}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.18",
+      "cardCount": 2,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/e/6/e6ac8dd2-f7af-44b6-841a-f0b6a4961e26.jpg?1562840718"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Decree of Justice",
+      "cardMana": "{X}{X}{2}{W}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.05",
+      "cardCount": 1,
+      "cardType": "Sorcery",
+      "cardImg": "https://cards.scryfall.io/normal/front/2/1/21637fbe-d9d3-4d5b-a361-0687385d4738.jpg?1717013537"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Sunlance",
+      "cardMana": "{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.03",
+      "cardCount": 2,
+      "cardType": "Sorcery",
+      "cardImg": "https://cards.scryfall.io/normal/front/8/2/82ab72c3-1f76-45ff-84b4-05f403866d44.jpg?1619393630"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Celestial Flare",
+      "cardMana": "{W}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.04",
+      "cardCount": 1,
+      "cardType": "Instant",
+      "cardImg": "https://cards.scryfall.io/normal/front/8/9/89bb3b06-b33b-4897-882e-75b75790ea02.jpg?1562029850"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Dauntless Onslaught",
+      "cardMana": "{2}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.07",
+      "cardCount": 1,
+      "cardType": "Instant",
+      "cardImg": "https://cards.scryfall.io/normal/front/a/a/aae001aa-10a0-482a-86fe-bf6ca7fc0866.jpg?1600696291"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Mighty Leap",
+      "cardMana": "{1}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.17",
+      "cardCount": 1,
+      "cardType": "Instant",
+      "cardImg": "https://cards.scryfall.io/normal/front/b/4/b4c55b3a-0cca-4b4f-9915-61847b8f1455.jpg?1706239745"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Mortal's Ardor",
+      "cardMana": "{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.12",
+      "cardCount": 1,
+      "cardType": "Instant",
+      "cardImg": "https://cards.scryfall.io/normal/front/7/5/75743f66-fd2d-47e7-b56f-1c95311d09c2.jpg?1562840242"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Raise the Alarm",
+      "cardMana": "{1}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.03",
+      "cardCount": 2,
+      "cardType": "Instant",
+      "cardImg": "https://cards.scryfall.io/normal/front/6/c/6c7c8527-55f6-494d-b4f7-c427a5735053.jpg?1608908958"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Soul Parry",
+      "cardMana": "{1}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.09",
+      "cardCount": 1,
+      "cardType": "Instant",
+      "cardImg": "https://cards.scryfall.io/normal/front/0/c/0cc10941-25b4-43cb-8689-c96659bd471d.jpg?1562839810"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Dictate of Heliod",
+      "cardMana": "{3}{W}{W}",
+      "cardColor": "[W]",
+      "cardPrice": "0.49",
+      "cardCount": 1,
+      "cardType": "Enchantment",
+      "cardImg": "https://cards.scryfall.io/normal/front/f/9/f964c561-96ac-4558-b46e-ba2c472d5807.jpg?1562711717"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Plains",
+      "cardMana": "",
+      "cardColor": "[ ]",
+      "cardPrice": "0.13",
+      "cardCount": 22,
+      "cardType": "Basic land",
+      "cardImg": "https://cards.scryfall.io/normal/front/1/b/1b499b37-efaf-4484-95e8-a70a9778c804.jpg?1725644948"
+    },
+    {
+      "deckId": 1,
+      "cardName": "Secluded Steppe",
+      "cardMana": "",
+      "cardColor": "[ ]",
+      "cardPrice": "0.07",
+      "cardCount": 2,
+      "cardType": "land",
+      "cardImg": "https://cards.scryfall.io/normal/front/2/2/22dd757f-e43a-430f-ae79-66fc7dc12525.jpg?1706241235"
+    },
+    {
+      "deckId": 2,
+      "cardName": "Kiora, the Crashing Wave",
+      "cardMana": "{2}{G}{U}",
+      "cardColor": "['G', 'U']",
+      "cardPrice": "1.24",
+      "cardCount": 1,
+      "cardType": "Plainswalker",
+      "cardImg": "https://cards.scryfall.io/normal/front/0/c/0c5c6b15-b72d-4341-92c2-7469210452da.jpg?1562839809"
+    }, 
+    {
+      "deckId": 2,
+      "cardName": "Inkwell Leviathan",
+      "cardMana": "{7}{U}{U}",
+      "cardColor": "['U']",
+      "cardPrice": "0.51",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/9/f/9f7a6dfb-a8f8-4899-b2db-c48d542dfd55.jpg?1598304010"
+    }, 
+    {
+      "deckId": 2,
+      "cardName": "Scourge of Fleets",
+      "cardMana": "{5}{U}{U}",
+      "cardColor": "['U']",
+      "cardPrice": "0.32",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/a/7/a79471f9-5cc0-48f5-9fa4-1f1374993825.jpg?1608912161"
+    }, 
+    {
+      "deckId": 2,
+      "cardName": "Simic Sky Swallower",
+      "cardMana": "{5}{G}{U}",
+      "cardColor": "['G', 'U']",
+      "cardPrice": "0.23",
+      "cardCount": 1,
+      "cardType": "Creature",
+      "cardImg": "https://cards.scryfall.io/normal/front/f/7/f791b7fa-3d12-409d-b017-cb9fd8b71af7.jpg?1608917702"
+    }
+  ]
